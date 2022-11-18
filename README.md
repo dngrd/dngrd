@@ -1,9 +1,8 @@
 ![I am an Business IT Student](https://i.pinimg.com/originals/05/49/5a/05495a9e23b88afd4d956bbe2ab9d176.gif)
 ### Hi there 👋, my name is Dino
-#### I am an Business IT Student
+#### I am an Information System Management Student
 
 
-In love with cyber security
 
 ## Skills: 
 * UI & UX 
@@ -11,8 +10,10 @@ In love with cyber security
 * CyberSec
 * Figma
 * Adobe Photoshop & Premiere Pro
+* Web3
+* Data Science/ML/AI
 
-- 🌱 I’m currently learning Cyber Security  
+- 🌱 Love all IT stuffs  
 - 😄 Pronouns: Male 
 
 
