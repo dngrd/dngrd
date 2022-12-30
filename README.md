@@ -1,5 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning blockchain development (Web3.0) & IT/IS security<br>⚡ I love IT !!
+🌱 A dev learning & building web2 & web3
+<3 Interested in software engineering, IT/IS Security and SmartContract audit/dev 
 
 
 # 💻 Tech Stack:
