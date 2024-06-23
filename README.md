@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 A dev learning & building web2 & web3
-<3 Interested in software engineering, IT/IS Security and SmartContract audit/dev 
+<3 Interested in IT/IS Security, blockchain and Day trading enthusiast
 
 
 # 💻 Tech Stack:
