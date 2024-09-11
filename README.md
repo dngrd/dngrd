@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱
-<3 Interested in IT/IS Security, blockchain and Day trading enthusiast
+<3 Interested in Cyber Security, blockchain and Day trading enthusiast
 
 
 # 💻 Tech Stack:
