@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 A dev learning & building web2 & web3
+🌱
 <3 Interested in IT/IS Security, blockchain and Day trading enthusiast
 
 
